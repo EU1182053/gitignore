@@ -8,6 +8,6 @@ public class GitIgnoreDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitIgnoreDemoApplication.class, args);
-	}
+	} 
 
 }
